@@ -29,7 +29,7 @@ kubectl get nodes
 ```shell
 ibmcloud cr region-set us-south
 ```
-- 
+- Create a unique namespace
 ```shell
 create that namespace <any_unique_namespace>
 ```
