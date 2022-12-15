@@ -11,7 +11,7 @@ else
   ibmcloud login
   ```
 
-## Kubernetes cluster setu on IBM Cloud
+## Kubernetes cluster setup on IBM Cloud
 
 - Once you create a cluster then grab the `cluster-id` and run following command to connect with the IBM Cloud Kubernetes cluster.
   ```shell
